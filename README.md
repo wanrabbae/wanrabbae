@@ -1,4 +1,4 @@
-### Hi there 👋 i'm wan
+<h2 align="center"> Hi 👋, I'm wan</h2>
 
 ### GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanrabbae)](https://github.com/anuraghazra/github-readme-stats)
