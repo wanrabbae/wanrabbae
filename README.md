@@ -1,4 +1,7 @@
 <h2 align="center"> Hi 👋, I'm wan</h2>
+<p align="center">
+  Real name Akhmad Alwan R, 16 years old from Indonesia 🇮🇩 and interested in Back-end Developement but i can frontend too.
+</p>
 
 ### GitHub Stats
 <div align="center">
