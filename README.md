@@ -1,7 +1,7 @@
 <h2 align="center"> Hi 👋, I'm wan</h2>
-<p align="center">
+<h4 align="center">
   Real name Akhmad Alwan R, 16 years old from Indonesia 🇮🇩 and interested in Back-end Developement but i can frontend too.
-</p>
+</h4>
 
 ![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20back%20end%20web%20developer%20and%20i%27m%2016%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%23ecf0f1&instagram=programmer.idn&github=wanrabbae&twitter=Wan_&pattern=leaf&colorPattern=%23eaeaea)
 
