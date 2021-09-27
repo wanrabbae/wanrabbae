@@ -7,7 +7,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wanrabbae)
 
-**Admin Of :** [@programmer.idn](https://www.instagram.com/programmer.idn/)
+**Admin Of** [@programmer.idn](https://www.instagram.com/programmer.idn/)
 
 ### GitHub Stats
   [![](https://github-readme-stats.vercel.app/api?username=wanrabbae&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
