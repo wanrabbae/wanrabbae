@@ -1,10 +1,30 @@
 <h2 align="center"> Hi, I'm Alwan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
-![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20back%20end%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%23ecf0f1&instagram=programmer.idn&github=wanrabbae&twitter=Wan_&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20back%20end%20developer%20and%20i%27m%2017%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
 
-![](https://visitor-badge.glitch.me/badge?page_id=wanrabbae)
+<div align="center">
+  <a href="mailto:alwanrabbae@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/wan_" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/imalwan_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/akhmad-alwan-rabbani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/imalwan_" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram" />
+  </a>
+</div>
+
 
 **Admin Of** [@programmer.idn](https://www.instagram.com/programmer.idn/)
+
+<details>
+  <summary>Show more</summary>
 
 ### GitHub Stats
   [![](https://github-readme-stats.vercel.app/api?username=wanrabbae&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,6 +49,7 @@
 </div>
 
 <br />
+</details>
 
 <!--
 **wanrabbae/wanrabbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
