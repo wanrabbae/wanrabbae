@@ -6,17 +6,14 @@
   <a href="mailto:alwanrabbae@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/wan_" target="_blank">
+  <a href="https://twitter.com/Wan81295896?s=09" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/imalwan_" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://linkedin.com/in/akhmad-alwan-rabbani" target="_blank">
+  <a href="https://linkedin.com/in/akhmad-alwan-rabbani-b75467205" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/imalwan_" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=for-the-badge&logo=telegram" alt="Telegram" />
   </a>
 </div>
 
