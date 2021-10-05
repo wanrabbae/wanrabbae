@@ -33,7 +33,7 @@
 <div align="center">
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%fff538.svg?&style=for-the-badge&logo=javascript&logoColor=white&color=yellow"/>
 <img alt="PHP" src="https://img.shields.io/badge/php%20-%23474A8A.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<!-- <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> -->
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="nodejs" src="https://img.shields.io/badge/node js%20-%233c873a.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
