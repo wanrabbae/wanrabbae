@@ -1,4 +1,4 @@
-<h2 align="center"> Hi, I'm Alwan<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<h2 align="center"> Hi, I'm Alwan</h2>
 
 ![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20back%20end%20developer%20and%20i%27m%2023%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
 
