@@ -20,9 +20,6 @@
 
 **Admin Of** [@programmer.idn](https://www.instagram.com/programmer.idn/)
 
-<details>
-  <summary>Show more</summary>
-
 ### GitHub Stats
   [![](https://github-readme-stats.vercel.app/api?username=wanrabbae&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -47,7 +44,6 @@
 </div>
 
 <br />
-</details>
 
 <!--
 **wanrabbae/wanrabbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
