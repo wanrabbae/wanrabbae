@@ -1,6 +1,6 @@
 <h2 align="center"> Hi, I'm Alwan</h2>
 
-![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20Full-stack%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
+![My card name](https://cardivo.vercel.app/api?name=Wanrabbae&description=Hi,%20i%27m%20a%20Full-stack%20developer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/71312587?v=4&backgroundColor=%231d1f28&pattern=brickWall&colorPattern=%23EFF4F6&opacity=0.05&fontColor=%23eff4f6)
 
 <div align="center">
   <a href="mailto:alwanrabbae@gmail.com" target="_blank">
